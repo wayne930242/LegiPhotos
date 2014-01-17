@@ -2,7 +2,7 @@ LegiPhotos
 ==========
 這是台灣第八屆立法委員全部照片的去背照（png格式, 透明背景）。
 
-資料來源是立法院全球資訊網（http://www.ly.gov.tw/03_leg/0301_main/legList.action），欲使用者，請注意授權方式。
+資料來源是立法院全球資訊網（http://www.ly.gov.tw/03_leg/0301_main/legList.action ），欲使用者，請注意授權方式。
 
 ---
 
